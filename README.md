@@ -1,7 +1,7 @@
-#NOT YET AVAILABLE TO CHAPTERS
-#Kids Learning Code: Animating with Scratch
+# NOT YET AVAILABLE TO CHAPTERS
+# Kids Learning Code: Animating with Scratch
 
-##Quick Links
+## Quick Links
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/klc-animating-with-scratch/facilitator-guide.html</a>
 
@@ -9,14 +9,14 @@ Preview Slides: <a href="https://ladieslearningcode.github.io/klc-animating-with
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)
 
-##Additional Resources (Optional)
+## Additional Resources (Optional)
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
 Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
-#HOW TO USE:
+# HOW TO USE:
 ## Before the Workshop
 1 Week to Go
 
@@ -33,16 +33,16 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 2 Days To Go
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
-    * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 24)
-    * Edit the facilitator info with your photo and details (Slide 2 and 26)
+    * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 25)
     * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
     * Replace the Example Project URL, if applicable (Slide 10)
+    * If using a video clip for a "Finish the Story" activity, paste the iframe onto slide 26
 
 1 Day to Go
 
 * Print Facilitator Guide and Solution Sheets (found in Activity List) to bring to the workshop.
 
-## During the Workshsop
+## During the Workshop
 * Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
 * Use the slides to support the Kick-Off and Introduction.
 
