@@ -1,4 +1,3 @@
-# NOT YET AVAILABLE TO CHAPTERS
 # Kids Learning Code: Animating with Scratch
 
 ## Quick Links
