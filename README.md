@@ -1,4 +1,4 @@
-# Kids Learning Code: Animating with Scratch
+# Kids Learning Code: Animating &amp; Storytelling with Scratch
 
 ## Quick Links
 
@@ -28,6 +28,8 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 * Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
+
+<strong>Here is the list of the <a href="https://docs.google.com/document/d/1eLUxo_fwtSpqbp5XuUpKyT_fDkXoHhWtVr02K-CTrwo/edit?usp=sharing">Scratch Teacher Account info</a> for each chapter </strong>
 
 2 Days To Go
 
