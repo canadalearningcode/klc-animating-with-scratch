@@ -68,9 +68,9 @@ Email questions & comments to <content@ladieslearningcode.com>.
 
 ## Liens vers les ressources
 
-Aperçu du Guide pour les enseignants propre à l'atelier : <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch-fr/guide-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/guide-fr.html</a>
+Aperçu du Guide pour les enseignants propre à l'atelier : <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/guide-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/guide-fr.html</a>
 
-Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch-fr/slides-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/slides-fr.html</a>
+Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/slides-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/slides-fr.html</a>
 
 Liste d'activités Scratch : <a href="http://bit.ly/liste-d-activités-scratch">bit.ly/liste-d-activités-scratch</a> (onglet Animation)
 
