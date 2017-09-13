@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-Preview Lead Instructor Guide: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/guide-en.html">ladieslearningcode.github.io/klc-animating-with-scratch/guide-en.html</a>
+Preview Lead Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/notes-en.html">ladieslearningcode.github.io/klc-animating-with-scratch/notes-en.html</a>
 
 Preview Slides: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/slides-en.html">ladieslearningcode.github.io/klc-animating-with-scratch/slides-en.html</a>
 
@@ -22,7 +22,7 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 1 Week to Go
 
 * Download this folder.
-* Read the Guide for context (open in your browser).
+* Read the Notes for context (open in your browser).
 
 3 Days to Go
 
@@ -43,10 +43,10 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 
 1 Day to Go
 
-* Print the Guide and Solution Sheet(s) (found in Activity List) to bring to the workshop.
+* Print the Notes and Solution Sheet(s) (found in Activity List) to bring to the workshop.
 
 ## During the Workshop
-* Have the Guide accessible throughout the workshop, follow along in the guide for support.
+* Have the Notes accessible throughout the workshop, follow along in the Notes for support.
 * Use the slides to support the Kick-Off and Introduction.
 
 ## After the Workshop
@@ -68,7 +68,7 @@ Email questions & comments to <content@ladieslearningcode.com>.
 
 ## Liens vers les ressources
 
-Aperçu du Guide pour les enseignants propre à l'atelier : <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/guide-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/guide-fr.html</a>
+Aperçu du Notes pour les enseignants propre à l'atelier : <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/notes-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/notes-fr.html</a>
 
 Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/slides-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/slides-fr.html</a>
 
@@ -86,7 +86,7 @@ Guide pour les enseignants (jeunesse) : <a href="http://bit.ly/guide-pour-les-en
 1 semaine avant l'atelier
 
 * Téléchargez ce dossier.
-* Lisez le Guide pour les enseignants pour avoir le contexte de l'atelier (ouvrez-le dans votre navigateur).
+* Lisez le Notes pour les enseignants pour avoir le contexte de l'atelier (ouvrez-le dans votre navigateur).
 
 3 jours avant l'atelier
 
@@ -106,10 +106,10 @@ Guide pour les enseignants (jeunesse) : <a href="http://bit.ly/guide-pour-les-en
 
 La veille de l'atelier
 
-* Imprimez le Guide pour les enseignants et les corrigés (dans la liste d'activités) pour les emmener à l'atelier.
+* Imprimez le Notes pour les enseignants et les corrigés (dans la liste d'activités) pour les emmener à l'atelier.
 
 ## Pendant l'atelier
-* Ayez le guide pour les enseignants à votre portée et consultez-le au fur et à mesure pour vous aider.
+* Ayez le Notes pour les enseignants à votre portée et consultez-le au fur et à mesure pour vous aider.
 * Consultez les diapositives pour lire les notes de l’ouverture et de l’introduction.
 
 ## Après l’atelier
