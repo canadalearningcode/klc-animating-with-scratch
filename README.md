@@ -1,10 +1,10 @@
 ## English: (Scroll down for French)
 
-# Girls Learning Code: Animating &amp; Storytelling with Scratch
+# Girls Learning Code: Animating with Scratch
 
 ## Quick Links
 
-Preview Lead Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/notes-en.html">ladieslearningcode.github.io/klc-animating-with-scratch/notes-en.html</a>
+Preview Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/notes-en.html">ladieslearningcode.github.io/klc-animating-with-scratch/notes-en.html</a>
 
 Preview Slides: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/slides-en.html">ladieslearningcode.github.io/klc-animating-with-scratch/slides-en.html</a>
 
@@ -14,7 +14,7 @@ Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-acti
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
-Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
+Youth Facilitator / Instructor Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
 # HOW TO USE:
@@ -64,7 +64,7 @@ Email questions & comments to <content@ladieslearningcode.com>.
 
 ## French:
 
-# Kids Learning Code : Animation et narration avec Scratch
+# Kids Learning Code : Animation avec Scratch
 
 ## Liens vers les ressources
 
