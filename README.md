@@ -8,7 +8,9 @@ Preview Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-anim
 
 Preview Slides: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/slides-en.html">ladieslearningcode.github.io/klc-animating-with-scratch/slides-en.html</a>
 
-Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)
+Themed activity: [100-Year Nap solution sheet](https://docs.google.com/document/d/1JbS8T4XvW3-FRq7crgq96KN_IuFdxvTD-finOa8Owoo/edit?usp=sharing)
+
+<!--Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)-->
 
 ## Additional Resources (Optional)
 
@@ -26,7 +28,7 @@ Youth Facilitator / Instructor Handbook: <a href="http://bit.ly/youth-facilitato
 
 3 Days to Go
 
-* Select 1-2 activities from the Activity List (depending on age group)
+<!--* Select 1-2 activities from the Activity List (depending on age group)-->
 * Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
@@ -84,7 +86,9 @@ Aperçu du Notes pour les enseignants propre à l'atelier : <a href="https://lad
 
 Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/slides-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/slides-fr.html</a>
 
-Liste d'activités Scratch : <a href="http://bit.ly/liste-d-activités-scratch">bit.ly/liste-d-activités-scratch</a> (onglet Animation)
+Activité : [Sieste de 100 ans (corrigé)](https://docs.google.com/document/d/1JbS8T4XvW3-FRq7crgq96KN_IuFdxvTD-finOa8Owoo/edit?usp=sharing) *In translation: Available Jun 7*
+
+<!--Liste d'activités Scratch : <a href="http://bit.ly/liste-d-activités-scratch">bit.ly/liste-d-activités-scratch</a> (onglet Animation)-->
 
 ## Ressources supplémentaires (facultatives)
 
@@ -102,7 +106,7 @@ Guide pour les enseignants (jeunesse) : <a href="http://bit.ly/guide-pour-les-en
 
 3 jours avant l'atelier
 
-* Sélectionnez 1 ou 2 activités de la liste d'activités (selon l'âge des apprenants)
+<!--* Sélectionnez 1 ou 2 activités de la liste d'activités (selon l'âge des apprenants)-->
 * Créez une classe dans votre compte d'enseignant sur Scratch et téléversez les projets initiaux ou vérifiez si cela a déjà été fait.
 * Créez un lien bit.ly pour rejoindre la classe ou vérifiez si cela a déjà été fait. (p. ex. : bit.ly/glcday-toronto)
 * Créez un compte pour élève à partir du lien bit.ly et exercez-vous en faisant les activités sélectionnées dans Scratch (NE MODIFIEZ PAS LE PROJET SCRATCH DU COMPTE POUR ENSEIGNANT)
