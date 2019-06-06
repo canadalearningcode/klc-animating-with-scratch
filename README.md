@@ -10,6 +10,10 @@ Preview Slides: <a href="https://ladieslearningcode.github.io/klc-animating-with
 
 Themed activity: [100-Year Nap solution sheet](https://docs.google.com/document/d/1JbS8T4XvW3-FRq7crgq96KN_IuFdxvTD-finOa8Owoo/edit?usp=sharing)
 
+Starter project: http://bit.ly/100-year-nap-starter  
+
+Example project: https://scratch.mit.edu/projects/314083885/
+
 <!--Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)-->
 
 ## Additional Resources (Optional)
@@ -86,7 +90,11 @@ Aperçu du Notes pour les enseignants propre à l'atelier : <a href="https://lad
 
 Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/klc-animating-with-scratch/slides-fr.html">ladieslearningcode.github.io/klc-animating-with-scratch-fr/slides-fr.html</a>
 
-Activité : [Sieste de 100 ans (corrigé)](https://docs.google.com/document/d/1JbS8T4XvW3-FRq7crgq96KN_IuFdxvTD-finOa8Owoo/edit?usp=sharing) *In translation: Available Jun 7*
+Activité : [Une sieste de 100 ans (corrigé)](https://docs.google.com/document/d/1fZaCBJwX0OxWcIc1NKXxtAfPSWrvUwi2tUvaYussD8w/edit?usp=sharing) 
+
+URL du projet initial : http://bit.ly/une-sieste-de-100-ans-initial
+
+Exemple de projet :  https://scratch.mit.edu/projects/314794032/
 
 <!--Liste d'activités Scratch : <a href="http://bit.ly/liste-d-activités-scratch">bit.ly/liste-d-activités-scratch</a> (onglet Animation)-->
 
